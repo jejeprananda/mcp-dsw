@@ -1,0 +1,8 @@
+.env
+certs/dsw-ca-bundle.pem
+certs/.bundle-version
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
